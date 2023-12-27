@@ -26,9 +26,7 @@ This project utilizes machine learning to predict calorie consumption based on u
 
 - **Evaluation:**
   - Assesses model performance on the test set using Mean Absolute Error (MAE).
-
-## Output System
-
+    
 - **User Input:**
   - Collects gender, age, height, weight, exercise duration, heart rate, and body temperature.
 
