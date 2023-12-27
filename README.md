@@ -1,5 +1,3 @@
-# Calories-Burnt-Prediction-with-XGBoost
-
 ## Project Description: Calorie Prediction with XGBoost
 
 ### Overview
