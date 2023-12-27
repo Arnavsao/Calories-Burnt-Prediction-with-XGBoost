@@ -1,9 +1,9 @@
 # Project Description: Calorie Prediction with XGBoost
 
-### Overview
+## Overview
 This project utilizes machine learning to predict calorie consumption based on user characteristics and exercise data. It employs the XGBoost regression algorithm, known for its efficiency in handling numerical predictions.
 
-### Steps
+## Steps
 
 - **Data Integration:**
   - Combines two datasets, `calories.csv` and `exercise.csv`, into a single DataFrame (`calories_data`).
@@ -26,9 +26,14 @@ This project utilizes machine learning to predict calorie consumption based on u
 
 - **Evaluation:**
   - Assesses model performance on the test set using Mean Absolute Error (MAE).
-- **Output System:**
-  - User Input: Collects gender, age, height, weight, exercise duration, heart rate, and body temperature.
-  - Prediction Display: Predicts and displays the calories burnt based on user input.
 
-### Conclusion
+## Output System
+
+- **User Input:**
+  - Collects gender, age, height, weight, exercise duration, heart rate, and body temperature.
+
+- **Prediction Display:**
+  - Predicts and displays the calories burnt based on user input.
+
+## Conclusion
 This project demonstrates the application of machine learning in predicting calorie consumption, providing valuable insights into user behavior and exercise patterns. The XGBoost model is evaluated for accuracy through the MAE metric, offering a practical solution for predicting and understanding calorie expenditure.
