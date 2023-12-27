@@ -1,4 +1,4 @@
-## Project Description: Calorie Prediction with XGBoost
+# Project Description: Calorie Prediction with XGBoost
 
 ### Overview
 This project utilizes machine learning to predict calorie consumption based on user characteristics and exercise data. It employs the XGBoost regression algorithm, known for its efficiency in handling numerical predictions.
